@@ -1,0 +1,20 @@
+
+ATSG Air Transport Services Group Inc	$1.4B	8.9	20.07	+0.18	+0.91%	-22.75%
+ALK Alaska Air Group Inc	$4.9B	84.7	38.14	+0.01	+0.03%	-11.18%
+ALGT Allegiant Travel Co	$1.5B	586.9	82.17	+1.38	+1.71%	+20.86%
+AAL American Airlines	$8.9B	72.3	13.73	+0.09	+0.66%	+7.94%
+BPOL Blackpoll Fleet International Inc	$2.5K	--	0.0001	0.00	0.00%	--
+BLDE Blade Air Mobility Inc	$231.2M	NM	3.21	+0.06	+1.90%	-10.34%
+BAER Bridger Aerospace Group Holdings Inc	$169.1M	--	4.90	+0.05	+1.01%	-51.63%
+CHHCF CHC Group LLC	$4.1K	--	0.0015	0.00	0.00%	--
+DAL Delta Air Lines	$20.3B	15.3	31.60	+0.01	+0.03%	-3.83%
+ULCC Frontier Group Holdings Inc	$1.9B	NM	8.65	-0.19	-2.15%	-15.77%
+JETMF Global Crossing Airlines Group Inc	$37.8M	--	0.9377	-0.0123	-1.29%	+34.59%
+GLUX Great Lakes Aviation Ltd	$898.00	--	0.0001	0.00	0.00%	0.00%
+HA Hawaiian Holdings Inc	$398.5M	NM	7.75	+0.17	+2.24%	-24.51%
+JBLU JetBlue Airways Corp	$2.2B	NM	6.71	+0.07	+1.06%	+3.55%
+MESA Mesa Air Group Inc	$88.1M	NM	2.17	0.00	0.00%	+41.83%
+PJET Priority Aviation Inc	$490.1K	--	0.0005	-0.0001	-16.67%	-28.57%
+SKYW SkyWest Inc	$917.8M	13.1	18.80	+0.41	+2.23%	+13.87%
+LUV Southwest Airlines	$17.6B	34.1	29.64	+0.005	+0.02%	-11.98%
+SAVE Spirit Airlines Inc	$1.8B	NM	16.77	-0.01	-0.06%	-13.91%

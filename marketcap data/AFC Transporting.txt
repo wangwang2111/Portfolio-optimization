@@ -1,0 +1,20 @@
+
+AIRT Air T Inc	$62.3M	61.4	22.10	-0.05	-0.22%	-10.60%
+CHRW CH Robinson Worldwide Inc	$11.0B	12.9	95.45	+0.61	+0.64%	+4.25%
+CYRX Cryoport Inc	$1.1B	NM	22.75	+1.07	+4.94%	+31.12%
+EXPD Expeditors International of Washington Inc	$16.1B	12.6	104.40	-0.07	-0.07%	+0.46%
+FDX FedEx	$54.7B	18.7	217.59	-0.01	-0.00%	+25.63%
+HUBG Hub Group Inc	$2.7B	7.6	81.39	0.00	0.00%	+2.39%
+JANL Janel Corp	$36.8M	--	31.00	0.00	0.00%	-20.31%
+MYFT MyFreightWorld Technologies Inc	$88.8K	--	0.0001	0.00	0.00%	0.00%
+NHLG National Healthcare Logistics Inc	$202.2K	--	0.008	-0.0002	-2.44%	-46.67%
+PACC Pacific CMA Inc	$2.9K	--	0.0001	0.00	0.00%	0.00%
+PFSW PFSweb Inc	$94.3M	NM	4.12	-0.34	-7.59%	-33.01%
+PBI Pitney Bowes Inc	$608.3M	16.5	3.47	-0.08	-2.25%	-8.68%
+PBI,B Pitney Bowes Inc	--	--	14.80	-0.18	-1.20%	-10.03%
+RLGT Radiant Logistics Inc	$257.8M	6.1	5.35	-0.02	-0.37%	+5.11%
+SGLY Singularity Future Technology Ltd	$13.4M	NM	0.61	-0.0061	-1.01%	+45.24%
+SKPN SkyShop Logistics Inc	$256.9K	--	0.002	0.00	0.00%	--
+SGRZ Stonepath Group Inc	$4.4K	--	0.0001	0.00	0.00%	--
+UNXP United Express Inc	$16.4M	--	1.05	0.00	0.00%	--
+UPS UPS	$134.5B	14.1	186.10	+0.03	+0.02%	+7.05%

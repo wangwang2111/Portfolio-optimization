@@ -1,0 +1,28 @@
+ARCB ArcBest Corp	$2.2B	7.7	89.69	+0.67	+0.75%	+28.06%
+CNGT Cannagistics Inc	$53.3K	--	0.0002	0.00	0.00%	-77.78%
+CGIP Celadon Group Inc	$3.0K	--	0.0001	-0.0005	-83.33%	0.00%
+CVLG Covenant Logistics Group Inc	$362.6M	4.8	33.30	+0.17	+0.51%	-3.67%
+DSKE Daseke Inc	$323.8M	10.3	7.18	+0.05	+0.70%	+26.10%
+DGWR Deep Green Waste & Recycling	$268.2K	--	0.0002	0.00	0.00%	0.00%
+EVOA EVO Transportation & Energy Services Inc	$43.5M	--	0.10	0.00	0.00%	--
+FWRD Forward Air Corp	$3.0B	14.4	102.50	+0.87	+0.86%	-2.28%
+GERS CleanTech Alpha Corp	$2.0M	--	0.10	-0.001	-0.99%	--
+HTLD Heartland Express Inc	$1.2B	9.0	15.27	+0.02	+0.13%	-0.46%
+JBHT J B Hunt Transport Services Inc	$17.2B	18.0	166.04	+0.14	+0.08%	-4.77%
+KNX Knight-Swift Transportation Holdings Inc	$8.9B	11.7	55.39	-0.02	-0.04%	+5.69%
+LSTR Landstar System Inc	$6.2B	14.7	173.16	+0.78	+0.45%	+6.30%
+MCIM Macau Capital Investments Inc	$2.5M	--	0.0005	0.00	0.00%	--
+MRTN Marten Transport Ltd	$1.6B	14.8	19.97	+0.11	+0.55%	+0.96%
+NXTN Next10 Inc	$7.5M	--	0.45	-0.05	-10.00%	-13.46%
+ODFL Old Dominion Freight Line Inc	$36.3B	27.1	329.59	0.00	0.00%	+16.14%
+PTSI PAM Transportation Services Inc	$589.6M	6.6	26.64	+0.10	+0.37%	+2.86%
+PATI Patriot Transportation Holding Inc	$27.3M	22.8	7.75	-0.07	-0.89%	+10.24%
+RAGL RA Global Services Inc	$606.00	--	0.0001	0.00	0.00%	--
+RRTS Roadrunner Transportation Systems Inc	$68.2M	--	1.80	-0.165	-8.40%	+23.29%
+SNDR Schneider National Inc	$2.6B	10.4	26.74	-0.01	-0.04%	+14.27%
+TEGY Transact Energy Corp	$2.0M	--	0.03	0.00	0.00%	--
+TLSS Transportation and Logistics Systems Inc	$18.2M	--	0.005	-0.0003	-5.66%	+26.58%
+ULH Universal Logistics Holdings Inc	$763.6M	4.6	29.05	+0.86	+3.04%	-13.13%
+USX US Xpress Enterprises Inc	$214.5M	NM	5.94	-0.04	-0.67%	+228.18%
+WERN Werner Enterprises Inc	$2.9B	12.2	45.47	+1.60	+3.65%	+12.94%
+YELL Yellow Corp	$104.7M	4.8	2.02	+0.03	+1.50%	-19.52%
