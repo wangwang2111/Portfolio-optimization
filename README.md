@@ -1,10 +1,3 @@
-<style>
-#main {
-  text-align: justify;
-  font-family: Sans-Serif;
-}
-</style>
-
 ------------------------------------------------------------------------
 
 # A. INTRODUCTION ABOUT THE DATA
